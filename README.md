@@ -1,16 +1,49 @@
-### Hi there 👋
+
+<h1>About</h1>
+
+<li>  
+<td>
+<img src="https://camo.githubusercontent.com/cc663b44f5f2d7e674990fd054d828aae0e30ec8df36768e5f5552978da1cfdf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3333333333333f7374796c653d666c6174266c6f676f3d707974686f6e"></img>
+</td>
+
+<td>
+<img src="https://camo.githubusercontent.com/8084c05ea61084a30448c5b8f581d0389c7ab4fbf46593e3499e59809b2c6395/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3333333333333f7374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d303037333936"></img>
+</td>
+
+<td>
+<img src="https://camo.githubusercontent.com/55255fcd291d8a0c6f5904c18fbec2fd859df8ebe9be5086265917e50cf24a51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432532332d3333333333333f7374796c653d666c6174266c6f676f3d432d7368617270"></img>
+</td>
+</li>
+
+&nbsp;
+
+<!--
+Second Row
+-->
+
+<li>  
+<td>
+<img src="https://camo.githubusercontent.com/cc663b44f5f2d7e674990fd054d828aae0e30ec8df36768e5f5552978da1cfdf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3333333333333f7374796c653d666c6174266c6f676f3d707974686f6e"></img>
+</td>
+
+<td>
+<img src="https://camo.githubusercontent.com/8084c05ea61084a30448c5b8f581d0389c7ab4fbf46593e3499e59809b2c6395/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3333333333333f7374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d303037333936"></img>
+</td>
+
+<td>
+<img src="https://camo.githubusercontent.com/55255fcd291d8a0c6f5904c18fbec2fd859df8ebe9be5086265917e50cf24a51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432532332d3333333333333f7374796c653d666c6174266c6f676f3d432d7368617270"></img>
+</td>
+</li>
+
+[![JJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teknicalmage&theme=radical&show_icons=true)](https://github.com/TeknicalMage/github-readme-stats)
+
+
+
+
 
 <!--
 **TeknicalMage/TeknicalMage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+
